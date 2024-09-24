@@ -2,20 +2,21 @@ My Portfolio Website
 
 Welcome to my portfolio website! This project features a simple and elegant design, showcasing my work and providing a way for visitors to contact me.
 
-Features
+##Features
 
-Home Page: A clean layout presenting my projects and skills. Contact Page: A user-friendly form that allows visitors to get in touch.
+* Home Page: A clean layout presenting my projects and skills.
+* Contact Page: A user-friendly form that allows visitors to get in touch.
 
-Technologies Used
+##Technologies Used
 
-HTML
-CSS
+*HTML
+*CSS
 
-Getting Started
+##Getting Started
 
 To view the website, simply clone this repository and open the https://surendiran2710.github.io/portfolio-website/ file in your browser.
 
-Contributing
+## Contributing
 
 Feel free to fork the repository and submit pull requests for any improvements or features!
 
